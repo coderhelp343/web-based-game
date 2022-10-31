@@ -1,7 +1,5 @@
 # Web based  Game
 
-### [Link to App](http://matthewemichael.github.io/word-guess-game/index.html)
-
 ### Overview
 
 This is the third assignment for the Vanderbilt University Coding Bootcamp.
