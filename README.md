@@ -1,4 +1,4 @@
-# Word Guess Game
+# Web based  Game
 
 ### [Link to App](http://matthewemichael.github.io/word-guess-game/index.html)
 
@@ -6,12 +6,10 @@
 
 This is the third assignment for the Vanderbilt University Coding Bootcamp.
 
-In this assignment, we created one of two possible computer games: Word Guess or Psychic. These apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
+In this assignment, we want a web based computer game. These apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
-### Requirements
-
-* App must suit these basic specs:
-  * Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions, 80s sound and an 80s aesthetic. You can choose any subject for your theme, though, so be creative!
+### Requirements: 
+For example if you make a web based game like word guessing it should meet following requirements :
   * Use key events to listen for the letters that your players will type.
   * Display the following on the page:
     * Press any key to get started!
@@ -29,8 +27,5 @@ In this assignment, we created one of two possible computer games: Word Guess or
 * Plays different sounds at the end of the game - one to congratulate a winner, one to taunt a loser and an easter egg of sorts if a player can manage to guess every single word in the game.
 
 ### Technologies Used
-- [JavaScript](https://www.javascript.com/)
-- [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-
-### Screen Shot
-![screenshot](assets/images/wordguess-screenshot.png)
+-[HTML/CSS]
+- [JavaScript]
